@@ -25,5 +25,12 @@ h:
 
 i:
 
-### Opdracht 2,3,4
+### Opdracht 2
 Commit de geschreven code.
+
+### Opdracht 3
+Tijdsduur sorteren van 1 miljoen willekeurige getallen:
+
+### Opdracht 4
+Big O bepaling:
+Commit een afbeelding van de grafiek.
